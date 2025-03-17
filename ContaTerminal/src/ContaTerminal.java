@@ -2,6 +2,10 @@
 import java.util.Scanner;
 
 public class ContaTerminal {
+    
+    /** 
+     * @param args
+     */
     public static void main(String[] args) {
         // Criamos uma "caixinha" chamada scanner para pegar o que o usuário digitar
         try (Scanner scanner = new Scanner(System.in)) {
