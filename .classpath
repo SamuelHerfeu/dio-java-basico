@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Calculadora/src"/>
+	<classpathentry kind="src" path="ContaTerminal/src"/>
+	<classpathentry kind="src" path="Controle-Fluxo/src"/>
+	<classpathentry kind="src" path="ControleRepetição/src"/>
+	<classpathentry kind="src" path="Debunging/src"/>
+	<classpathentry kind="src" path="Excecoes/src"/>
+	<classpathentry kind="src" path="MinhaClasse/src"/>
+	<classpathentry kind="src" path="sistema-smarttv/src"/>
+	<classpathentry kind="output" path="Calculadora/bin"/>
+</classpath>
